@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Security Shield Outline / Glow -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,24 L82,36 L82,58 C82,74 70,88 54,92 C38,88 26,74 26,58 L26,36 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,28 L78,38 L78,58 C78,71.5 68,83.5 54,87 C40,83.5 30,71.5 30,58 L30,38 Z" />
+    <!-- White Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,68 L36,56 L40.2,51.8 L48,59.6 L67.8,39.8 L72,44 Z" />
+</vector>
